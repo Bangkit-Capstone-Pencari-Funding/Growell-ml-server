@@ -1,0 +1,40 @@
+item {
+    name: "bayam",
+    id: 1,
+    display_name: "bayam"
+}
+item {
+    name: "brokoli",
+    id: 2,
+    display_name: "brokoli"
+}
+item {
+    name: "jagung",
+    id: 3,
+    display_name: "jagung"
+}
+item {
+    name: "kentang",
+    id: 4,
+    display_name: "kentang"
+}
+item {
+    name: "labusiam",
+    id: 5,
+    display_name: "labusiam"
+}
+item {
+    name: "telur",
+    id: 6,
+    display_name: "telur"
+}
+item {
+    name: "tomat",
+    id: 7,
+    display_name: "tomat"
+}
+item {
+    name: "wortel",
+    id: 8,
+    display_name: "wortel"
+}

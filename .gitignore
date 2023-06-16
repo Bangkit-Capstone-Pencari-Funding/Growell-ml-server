@@ -1,0 +1,4 @@
+*.sh
+venv
+models
+docker-compose.yaml

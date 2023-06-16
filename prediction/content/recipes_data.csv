@@ -1,0 +1,23 @@
+,id,name,target_age,estimated_time,ingredients
+0,12893e1a-1d30-47fb-a6ee-8c46e034b437,Sup Sayur Bayam dan Tomat,6,30,wortel|tomat
+1,256e140d-b6fd-4729-8c5f-92a2cc949d21,Chicken Bone Broth,2,30,ayam|wortel
+2,3b66fb82-5ede-4f0f-821b-d5da4d78db5c,Tempe Goreng dengan Sayuran Wortel dan Brokoli,13,30,wortel|brokoli|tempe
+3,4ae654db-16bb-43da-8f3e-12a9308f4dbe,Tumis Ayam dengan Tomat dan Tempe,13,30,ayam|tomat|tempe
+4,4e921465-bc2d-4f6c-83f6-3ccd60153e40,Mashed Avocado dan Kentang Panggang,12,60,kentang
+5,5a5d6c25-dd72-4a5e-a27a-69f4ed1cc04f,Puree Jagung dan Brokoli,6,30,jagung|brokoli
+6,70c7509e-7a39-4949-9f87-b84f0edaa8d0,Puree Sayuran dan Ayam,6,30,ayam|wortel
+7,7c7b8c15-0f96-4da1-88ff-172174b0ecbc,Telur Rebus dengan Wortel dan Brokoli,8,30,wortel|telur|brokoli
+8,810f4de1-e7cb-4395-8545-636df5ab433e,Daging Sapi Panggang dengan Jagung,13,30,daging sapi|jagung
+9,83387a4d-50ee-4d9a-9a93-86532a652e1c,Nasi Tim Sayur,12,30,wortel|kentang|brokoli
+10,8f8a4951-bb15-4478-b533-80f11b0c07de,Puree Buah,4,30,wortel|tomat
+11,aa68742d-9042-4a4d-8837-37eca799a775,Telur Dadar dengan Kentang,8,30,kentang|telur
+12,b4f306f9-cf8d-47c0-ba57-2dfef0db1d78,Sup Jagung Wortel dan Daging Sapi,6,30,wortel|daging sapi|jagung
+13,bac3b441-e982-436e-9181-9538c6b45523,Ikan Panggang dengan Kentang dan Sayuran Wortel dan Brokoli,13,30,wortel|ikan|brokoli
+14,bfd4acec-af8d-4d70-90d6-8309bbbbee8f,Salad Tomat dan Brokoli,13,30,tomat|brokoli
+15,c15d53fd-6e4c-4209-bde5-4f95d111ed8c,Sup Labu dan Ayam,6,30,ayam
+16,d484cbe8-84e0-496f-9dcf-b35ee577746a,Kaldu ayam untuk mpasi,3,30,wortel|telur
+17,d8d86b7d-a178-49c9-b2e4-104626774b58,"Tim Ayam, Nasi, wortel",2,120,wortel|telur
+18,e0715743-d18b-41e7-b290-9d1d4b8e4686,Sup Ikan dan Kentang Wortel,6,30,wortel|kentang|ikan
+19,ee35eb4e-ac5a-4534-b47a-602bc760ab5c,Puree Tempe dan Tomat,4,30,tomat|tempe
+20,f98d8fbe-c94f-487f-934b-6ba433c67ff6,Bubur Ayam dan Ketang,6,30,ayam|kentang
+21,fdbaf820-1055-4fed-ad5e-f0c8df1bdc63,Puree Sayuran,4,30,wortel|kentang|brokoli
